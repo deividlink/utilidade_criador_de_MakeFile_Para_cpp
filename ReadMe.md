@@ -10,7 +10,7 @@
 
 # Obs. So funciona em S.O linux e no Termux;
 
-# Remova o termux-elf-cleaner se for rodar no linux(ele aparece na função)
+# Remova o termux-elf-cleaner(ele Tira aqueles Warning que aparece quando voce compila no termux com g++); se for rodar no linux(ele aparece na função)
 
 # createMakeFile() nas linhas 14 e 21(dentro da funçaos,contando \n)
 
